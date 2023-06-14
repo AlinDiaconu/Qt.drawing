@@ -1,3 +1,2 @@
 # Qt.drawing
 
-Requirements
